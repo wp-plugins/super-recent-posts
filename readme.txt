@@ -23,7 +23,7 @@ This plugin sponsor is http://www.huridocs.org/
 
 == Screenshots ==
 
-1.Widget view
+1. Widget view
 
 == Changelog ==
 
